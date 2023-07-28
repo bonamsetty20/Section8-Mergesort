@@ -1,0 +1,8 @@
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-Mergesort\Section8-Mergesort\bin\Debug\Section8-Mergesort.exe.config
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-Mergesort\Section8-Mergesort\bin\Debug\Section8-Mergesort.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-Mergesort\Section8-Mergesort\bin\Debug\Section8-Mergesort.pdb
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-Mergesort\Section8-Mergesort\obj\Debug\Section8-Mergesort.csproj.AssemblyReference.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-Mergesort\Section8-Mergesort\obj\Debug\Section8-Mergesort.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-Mergesort\Section8-Mergesort\obj\Debug\Section8-Mergesort.csproj.CoreCompileInputs.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-Mergesort\Section8-Mergesort\obj\Debug\Section8-Mergesort.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-Mergesort\Section8-Mergesort\obj\Debug\Section8-Mergesort.pdb
